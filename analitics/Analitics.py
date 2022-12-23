@@ -1,7 +1,6 @@
 import pandas as pd
 import sqlite3
 import matplotlib.pyplot as plt
-import seaborn as sns
 import numpy as np
 import re
 from collections import Counter
